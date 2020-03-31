@@ -8,6 +8,8 @@
 char *list = "coronavirus";
 
 int main(void) {
+   printf("The list of words is:\n");
+   printf("coronavirus\n");
    int wordi, length, lives = 5;
    char word[25];
 
